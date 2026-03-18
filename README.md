@@ -46,3 +46,7 @@ High demand is observed in European countries, suggesting expansion opportunitie
 
 ## Conclusion
 This project demonstrates how data visualization can be used to extract meaningful insights and support business decision-making. The analysis highlights key revenue trends, high-value customers, and potential markets for expansion.
+
+## 📜 Certificate
+
+[Tata Data Visualisation Certificate](tata-data-visualisation-certificate.pdf)
